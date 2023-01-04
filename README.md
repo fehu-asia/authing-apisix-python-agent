@@ -27,6 +27,7 @@ Runs [Apache APISIX](http://apisix.apache.org/) plugins written in Python. Imple
 APISIX.
 
 ![apisix-plugin-runner-overview](./docs/assets/images/apisix-plugin-runner-overview.png)
+![apisix-with-authing-overview](./docs/assets/images/authing-apisix.png)
 
 # Why apisix-python-plugin-runner
 

@@ -19,7 +19,6 @@
 
 # Python Plugin Runner for Apache APISIX
 
-[![Runner Unit Test](https://github.com/apache/apisix-python-plugin-runner/actions/workflows/runner-test.yml/badge.svg?branch=master)](https://github.com/apache/apisix-python-plugin-runner/actions)
 [![Runner Lint Checker](https://github.com/apache/apisix-python-plugin-runner/actions/workflows/runner-lint.yml/badge.svg?branch=master)](https://github.com/apache/apisix-python-plugin-runner/actions)
 [![Runner License Checker](https://github.com/apache/apisix-python-plugin-runner/actions/workflows/runner-license.yml/badge.svg?branch=master)](https://github.com/apache/apisix-python-plugin-runner/actions)
 [![Codecov](https://codecov.io/gh/apache/apisix-python-plugin-runner/branch/master/graph/badge.svg)](https://codecov.io/gh/apache/apisix-python-plugin-runner)
